@@ -1,16 +1,14 @@
-### Hi there 👋
+## I'm begginer Software Engineer
 
-<!--
-**NikiLee44/NikiLee44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools
 
-Here are some ideas to get you started:
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColour=00648B)
+![HTML5](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5&logoColour=00648B)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColour=00648B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColour=00648B)
+![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=redmine&logoColour=00648B)
+![TestLink](https://img.shields.io/badge/-TestLink-090909?style=for-the-badge&logo=testlink&logoColour=00648B)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColour=00648B)
+![Workbench](https://img.shields.io/badge/-Workbench-090909?style=for-the-badge&logo=workbench&logoColour=00648B)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Navbar
