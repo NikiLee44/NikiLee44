@@ -1,6 +1,6 @@
 ## I'm begginer Software Engineer
 
-Languages and Tools
+## Language and Tools
 
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColour=00648B)
 ![HTML5](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5&logoColour=00648B)
@@ -11,4 +11,6 @@ Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColour=00648B)
 ![Workbench](https://img.shields.io/badge/-Workbench-090909?style=for-the-badge&logo=workbench&logoColour=00648B)
 
-Navbar
+## Follow me
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColour=00648B)](https://vk.com/id101170077)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColour=00648B)](https://t.me/NikiLee)
